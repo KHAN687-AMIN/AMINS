@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" fill="none">
+  <!-- PLACEHOLDER PORTRAIT — replace this file with your professional photo.
+       Name it portrait.jpg (or .png) in this same folder and update the
+       image src in components/sections/hero.tsx -->
+  <rect width="900" height="1200" fill="#161518"/>
+  <!-- Studio backdrop sweep -->
+  <path d="M0 1200 L0 700 C 200 620, 420 560, 900 640 L 900 1200 Z" fill="#1e1c22"/>
+  <!-- Silhouette -->
+  <g fill="#0a0a0a">
+    <ellipse cx="450" cy="430" rx="150" ry="185"/>
+    <path d="M450 600 C 300 600, 210 700, 190 850 L 170 1200 L 730 1200 L 710 850 C 690 700, 600 600, 450 600 Z"/>
+  </g>
+  <!-- Rim light -->
+  <path d="M600 260 C 660 320, 690 400, 680 500" stroke="#f4f3f1" stroke-opacity="0.5" stroke-width="3"/>
+  <path d="M300 280 C 250 340, 230 420, 240 510" stroke="#f4f3f1" stroke-opacity="0.25" stroke-width="2"/>
+  <!-- Grain hint -->
+  <g fill="#f4f3f1" fill-opacity="0.05">
+    <circle cx="120" cy="180" r="1.5"/><circle cx="780" cy="140" r="1.5"/>
+    <circle cx="680" cy="900" r="1.5"/><circle cx="180" cy="980" r="1.5"/>
+    <circle cx="450" cy="120" r="1.5"/><circle cx="820" cy="520" r="1.5"/>
+    <circle cx="80" cy="560" r="1.5"/><circle cx="540" cy="1080" r="1.5"/>
+  </g>
+  <text x="450" y="1150" font-family="monospace" font-size="20" fill="#f4f3f1" fill-opacity="0.35" text-anchor="middle" letter-spacing="4">YOUR PORTRAIT HERE</text>
+</svg>

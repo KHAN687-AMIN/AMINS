@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" fill="none">
+  <!-- AURA — Premium E-commerce -->
+  <rect width="1200" height="800" fill="#0d0a1a"/>
+  <!-- Subtle gradient -->
+  <rect width="1200" height="800" fill="url(#auraGrad)"/>
+  <defs>
+    <linearGradient id="auraGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1030"/>
+      <stop offset="50%" stop-color="#0d0a1a"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+  </defs>
+  <!-- Nav bar -->
+  <rect x="0" y="0" width="1200" height="60" fill="#0a0815"/>
+  <text x="60" y="38" font-family="sans-serif" font-size="22" font-weight="700" fill="#f2f0eb">AURA</text>
+  <circle cx="145" cy="30" r="4" fill="#6366f1"/>
+  <text x="420" y="38" font-family="sans-serif" font-size="13" fill="#f2f0eb" fill-opacity="0.9" text-decoration="underline">Home</text>
+  <text x="500" y="38" font-family="sans-serif" font-size="13" fill="#f2f0eb" fill-opacity="0.5">Shop</text>
+  <text x="580" y="38" font-family="sans-serif" font-size="13" fill="#f2f0eb" fill-opacity="0.5">Categories</text>
+  <text x="680" y="38" font-family="sans-serif" font-size="13" fill="#f2f0eb" fill-opacity="0.5">About</text>
+  <text x="760" y="38" font-family="sans-serif" font-size="13" fill="#f2f0eb" fill-opacity="0.5">Contact</text>
+  <!-- Nav icons -->
+  <circle cx="1020" cy="30" r="12" stroke="#f2f0eb" stroke-opacity="0.3" fill="none"/>
+  <path d="M1015 30 L 1025 30 M 1020 25 L 1020 35" stroke="#f2f0eb" stroke-opacity="0.3" stroke-width="1"/>
+  <path d="M1060 22 C 1065 22, 1068 26, 1068 30 C 1068 34, 1065 38, 1060 38 C 1055 38, 1052 34, 1052 30 C 1052 26, 1055 22, 1060 22 Z" stroke="#f2f0eb" stroke-opacity="0.3" fill="none"/>
+  <rect x="1095" y="22" width="16" height="16" rx="3" stroke="#f2f0eb" stroke-opacity="0.3" fill="none"/>
+  <circle cx="1150" cy="30" r="8" stroke="#f2f0eb" stroke-opacity="0.3" fill="none"/>
+  <!-- Badge -->
+  <rect x="480" y="80" width="240" height="28" rx="14" fill="#1a1530" stroke="#2a2540" stroke-width="1"/>
+  <text x="600" y="99" font-family="sans-serif" font-size="10" fill="#a78bfa" text-anchor="middle" letter-spacing="1">✦ INTRODUCING THE 2026 STUDIO COLLECTION</text>
+  <!-- Main headline -->
+  <text x="600" y="280" font-family="sans-serif" font-size="72" font-weight="700" fill="#f2f0eb" text-anchor="middle">Redefining</text>
+  <text x="600" y="370" font-family="sans-serif" font-size="72" font-weight="700" fill="#f2f0eb" text-anchor="middle">Space &amp; Acoustics.</text>
+  <!-- Subtext -->
+  <text x="600" y="430" font-family="sans-serif" font-size="16" fill="#f2f0eb" fill-opacity="0.6" text-anchor="middle">Discover a premium curation of luxury tech items, mechanical</text>
+  <text x="600" y="455" font-family="sans-serif" font-size="16" fill="#f2f0eb" fill-opacity="0.6" text-anchor="middle">elements, and organic ambient light pieces designed to elevate your</text>
+  <text x="600" y="480" font-family="sans-serif" font-size="16" fill="#f2f0eb" fill-opacity="0.6" text-anchor="middle">workspace aesthetics.</text>
+  <!-- CTA Buttons -->
+  <rect x="440" y="520" width="140" height="44" rx="22" fill="#f2f0eb"/>
+  <text x="510" y="547" font-family="sans-serif" font-size="13" font-weight="600" fill="#0a0815" text-anchor="middle">Shop Collection →</text>
+  <rect x="600" y="520" width="160" height="44" rx="22" fill="none" stroke="#f2f0eb" stroke-opacity="0.3"/>
+  <text x="680" y="547" font-family="sans-serif" font-size="13" fill="#f2f0eb" text-anchor="middle">Browse Categories</text>
+  <!-- Bottom brand strip -->
+  <rect x="0" y="700" width="1200" height="100" fill="#080612"/>
+  <text x="100" y="760" font-family="sans-serif" font-size="14" fill="#f2f0eb" fill-opacity="0.15" letter-spacing="3">DESIGNS</text>
+  <text x="280" y="760" font-family="sans-serif" font-size="14" fill="#f2f0eb" fill-opacity="0.15" letter-spacing="3">SPATIAL</text>
+  <text x="460" y="760" font-family="sans-serif" font-size="14" fill="#f2f0eb" fill-opacity="0.15" letter-spacing="3">STRIPE</text>
+  <text x="640" y="760" font-family="sans-serif" font-size="14" fill="#f2f0eb" fill-opacity="0.15" letter-spacing="3">LINEAR</text>
+  <text x="820" y="760" font-family="sans-serif" font-size="14" fill="#f2f0eb" fill-opacity="0.15" letter-spacing="3">FRAMER</text>
+  <text x="1000" y="760" font-family="sans-serif" font-size="14" fill="#f2f0eb" fill-opacity="0.15" letter-spacing="3">SHOPIFY</text>
+</svg>

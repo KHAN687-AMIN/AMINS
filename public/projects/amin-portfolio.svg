@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" fill="none">
+  <!-- AMIN PORTFOLIO — Digital Experience -->
+  <rect width="1200" height="800" fill="#050505"/>
+  <!-- Grid lines -->
+  <g stroke="#f2f0eb" stroke-opacity="0.06">
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="400" x2="1200" y2="400"/>
+    <line x1="0" y1="600" x2="1200" y2="600"/>
+    <line x1="200" y1="0" x2="200" y2="800"/>
+    <line x1="400" y1="0" x2="400" y2="800"/>
+    <line x1="600" y1="0" x2="600" y2="800"/>
+    <line x1="800" y1="0" x2="800" y2="800"/>
+    <line x1="1000" y1="0" x2="1000" y2="800"/>
+  </g>
+  <!-- Central typography -->
+  <text x="600" y="380" font-family="Georgia, serif" font-size="100" font-weight="300" fill="#f2f0eb" text-anchor="middle">MAK</text>
+  <text x="600" y="460" font-family="Georgia, serif" font-size="100" font-weight="300" fill="none" stroke="#f2f0eb" stroke-opacity="0.25" text-anchor="middle">MAK</text>
+  <!-- Subtext -->
+  <text x="600" y="560" font-family="Georgia, serif" font-style="italic" font-size="28" fill="#f2f0eb" fill-opacity="0.6" text-anchor="middle">code, motion, design</text>
+  <!-- Corner accents -->
+  <circle cx="800" cy="200" r="5" fill="#C9A96E"/>
+  <circle cx="200" cy="600" r="3" fill="#C9A96E" fill-opacity="0.5"/>
+  <!-- Bottom label -->
+  <text x="60" y="760" font-family="monospace" font-size="14" fill="#f2f0eb" fill-opacity="0.3" letter-spacing="3">PORTFOLIO — VOL. 01</text>
+  <text x="1140" y="760" font-family="monospace" font-size="14" fill="#f2f0eb" fill-opacity="0.3" text-anchor="end">© 2026</text>
+</svg>

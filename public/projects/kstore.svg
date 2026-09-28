@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" fill="none">
+  <!-- KSTORE — E-commerce Platform -->
+  <rect width="1200" height="800" fill="#0a0a0a"/>
+  <!-- Nav -->
+  <rect x="0" y="0" width="1200" height="56" fill="#0f0f0f"/>
+  <text x="60" y="36" font-family="sans-serif" font-size="20" font-weight="700" fill="#f2f0eb">KSTORE</text>
+  <text x="500" y="36" font-family="sans-serif" font-size="12" fill="#f2f0eb" fill-opacity="0.5">New Arrivals</text>
+  <text x="620" y="36" font-family="sans-serif" font-size="12" fill="#f2f0eb" fill-opacity="0.5">Collections</text>
+  <text x="760" y="36" font-family="sans-serif" font-size="12" fill="#f2f0eb" fill-opacity="0.5">Sale</text>
+  <circle cx="1050" cy="28" r="10" stroke="#f2f0eb" stroke-opacity="0.3" fill="none"/>
+  <rect x="1090" y="18" width="14" height="14" rx="2" stroke="#f2f0eb" stroke-opacity="0.3" fill="none"/>
+  <!-- Hero grid -->
+  <rect x="60" y="80" width="520" height="340" fill="#111111"/>
+  <rect x="620" y="80" width="520" height="340" fill="#0d0d0d"/>
+  <rect x="60" y="440" width="520" height="280" fill="#0d0d0d"/>
+  <rect x="620" y="440" width="520" height="280" fill="#111111"/>
+  <!-- Product placeholders -->
+  <rect x="100" y="120" width="200" height="260" fill="#1a1a1a"/>
+  <rect x="340" y="120" width="200" height="260" fill="#161616"/>
+  <rect x="660" y="120" width="200" height="260" fill="#181818"/>
+  <rect x="900" y="120" width="200" height="260" fill="#141414"/>
+  <!-- Typography -->
+  <text x="100" y="620" font-family="sans-serif" font-size="48" font-weight="300" fill="#f2f0eb">Modern</text>
+  <text x="100" y="680" font-family="sans-serif" font-size="48" font-weight="300" fill="#f2f0eb" fill-opacity="0.4">Commerce</text>
+  <text x="660" y="620" font-family="sans-serif" font-size="14" fill="#f2f0eb" fill-opacity="0.5">CART — 03 ITEMS</text>
+  <text x="660" y="660" font-family="sans-serif" font-size="14" fill="#f2f0eb" fill-opacity="0.3">CHECKOUT →</text>
+  <!-- Accent -->
+  <circle cx="1080" cy="200" r="28" fill="#C9A96E"/>
+  <text x="1080" y="206" font-family="sans-serif" font-size="14" font-weight="600" fill="#0a0a0a" text-anchor="middle">3</text>
+</svg>
